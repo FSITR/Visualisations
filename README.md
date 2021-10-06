@@ -1,1 +1,2 @@
-This repository contains examples of different visualisations using matplotlib
+- This repository contains examples of different visualisations using matplotlib. 
+- Each visualisation contains a .csv of dummy data, which you replce with your own data to begin reusing the visualisation.
